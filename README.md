@@ -16,8 +16,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/Cherrise.exe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/cherrisehatcher/)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='250'>](https://raw.githubusercontent.com/leereilly/leereilly/master/gitris.gif) 
-
+[<img src='https://raw.githubusercontent.com/leereilly/leereilly/master/gitris.gif' alt='linkedin' height='250'>](https://raw.githubusercontent.com/leereilly/leereilly/master/gitris.gif) 
 <!---
 Cherrise-exe/Cherrise-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
