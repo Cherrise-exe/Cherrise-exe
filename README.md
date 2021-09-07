@@ -11,16 +11,15 @@ I'm a software engineer with a passion for building software applications and te
 - 💬 Ask me about anything! 
 
 ## Skills and Experience
+[![Cherrise-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrise-exe)](https://github.com/anuraghazra/github-readme-stats)
 * ⚛️ ReactJS
 * 💻 Typescript
 * 🎨 HTML, CSS, JS
 * 🏇 C/C++
 * 🚙 C#
 * 🏎️ Python
-
-[![Cherrise-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrise-exe)](https://github.com/anuraghazra/github-readme-stats)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/Cherrise-exe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/cherrisehatcher/)  
+## 
+[<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/white/svg/github.svg' alt='github' height='50'>](https://github.com/Cherrise-exe) [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/white/svg/linkedin-square.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/cherrisehatcher/)  
 
 <!---
 Cherrise-exe/Cherrise-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
