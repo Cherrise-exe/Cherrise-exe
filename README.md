@@ -14,9 +14,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 💬 Ask me about anything! 
 - 😄 Pronouns: She/Her 
 
+[![Cherrise.exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherrise.exe)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/Cherrise.exe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/cherrisehatcher/)  
 
-[<img src='https://raw.githubusercontent.com/leereilly/leereilly/master/gitris.gif' alt='linkedin' height='250'>](https://raw.githubusercontent.com/leereilly/leereilly/master/gitris.gif) 
 <!---
 Cherrise-exe/Cherrise-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
