@@ -1,18 +1,22 @@
-### Hi there 👋, I’m @Cherrise-exe
-#### Software Engineering and Development
 
-![Software Engineer](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)
+![Software Engineer](https://raw.githubusercontent.com/Cherrise-exe/Cherrise-exe/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg)
 
+## Hi there 👋, I’m @Cherrise-exe
 I'm a software engineer with a passion for building software applications and testing. Software development allows me to take my love for creating and augment our future.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on creating a database for my side project.
 - 👀 I’m interested in Machine Learning and Cloud Development.
 - 🌱 I’m currently learning mySQL, AWS, and Agile Software Development.
 - 💞️ I’m looking to collaborate on software development. 
 - 💬 Ask me about anything! 
-- 😄 Pronouns: She/Her 
+
+## Skills and Experience
+* ⚛️ ReactJS
+* 💻 Typescript
+* 🎨 HTML, CSS, JS
+* 🏇 C/C++
+* 🚙 C#
+* 🏎️ Python
 
 [![Cherrise-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrise-exe)](https://github.com/anuraghazra/github-readme-stats)
 
