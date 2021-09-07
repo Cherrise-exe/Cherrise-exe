@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m @Cherrise-exe
-#### Software Engineer
+#### Software Engineering and Development
 
 ![Software Engineer](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)
 
@@ -14,10 +14,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 💬 Ask me about anything! 
 - 😄 Pronouns: She/Her 
 
-[![Cherrise.exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherrise.exe)](https://github.com/cherrise.exe/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrise-exe)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Cherrise-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrise-exe)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/Cherrise-exe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/cherrisehatcher/)  
 
