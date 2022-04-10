@@ -2,7 +2,7 @@
 ![Software Engineer](https://raw.githubusercontent.com/Cherrise-exe/Cherrise-exe/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg)
 
 ## Hi there 👋, I’m @Cherrise-exe
-I'm a software engineer with a passion for building software applications and testing. Software development allows me to take my love for creating and augment our future.
+I'm a software engineer passionate about building software applications and testing. Software development allows me to take my love for creating and augmenting our future.
 
 - 🔭 I’m currently working on creating a database for my side project.
 - 👀 I’m interested in Machine Learning and Web Development.
