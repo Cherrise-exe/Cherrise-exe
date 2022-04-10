@@ -6,20 +6,27 @@ I'm a software engineer with a passion for building software applications and te
 
 - 🔭 I’m currently working on creating a database for my side project.
 - 👀 I’m interested in Machine Learning and Web Development.
-- 🌱 I’m currently learning Tensorflow, AWS, and Agile Software Development.
+- 🌱 I’m currently learning Tensorflow, Typescript, AWS, and Agile Software Development.
 - 💞️ I’m looking to collaborate on software development. 
 - 💬 Ask me about anything! 
 
-## Skills and Experience
+## Languages and Technologies
 [![Cherrise-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrise-exe)](https://github.com/anuraghazra/github-readme-stats)
-* ⚛️ ReactJS
-* 💻 Typescript
-* 🎨 HTML, CSS, JS
+
+### Languages
+* 🎨 HTML/CSS
+* 💻 JavaScript
 * 🏇 C/C++
 * 🚙 C#
 * 🏎️ Python
-* SQL
-* R
+* :chart_with_upwards_trend: SQL
+* :triangular_ruler: R
+
+### Technologies
+* ⚛️ ReactJS
+* :boot: Bootstrap
+* :repeat: Amazon Web Services
+
 ## 
 [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/white/svg/github.svg' alt='github' height='50'>](https://github.com/Cherrise-exe) [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/white/svg/linkedin-square.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/cherrisehatcher/)  
 
