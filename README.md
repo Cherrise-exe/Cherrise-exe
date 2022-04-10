@@ -6,7 +6,7 @@ I'm a software engineer with a passion for building software applications and te
 
 - 🔭 I’m currently working on creating a database for my side project.
 - 👀 I’m interested in Machine Learning and Web Development.
-- 🌱 I’m currently learning Tensorflow, Typescript, AWS, and Agile Software Development.
+- 🌱 I’m currently learning Tensorflow and Typescript.
 - 💞️ I’m looking to collaborate on software development. 
 - 💬 Ask me about anything! 
 
