@@ -15,7 +15,7 @@ I'm a software engineer passionate about building software applications and test
 
 ### Languages
 * 🎨 HTML/CSS
-* 💻 JavaScript
+* 💻 JavaScript/TypeScript
 * 🏇 C/C++
 * 🚙 C#
 * 🏎️ Python
