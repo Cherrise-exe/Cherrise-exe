@@ -29,7 +29,7 @@ I'm a software engineer passionate about building software applications and test
 
 ## 
 [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/white/svg/github.svg' alt='github' height='50'>](https://github.com/Cherrise-exe) [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/white/svg/linkedin-square.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/cherrisehatcher/)  
-Here's my Portfolio: https://cherrise-exe.github.io/myPortfolio/
+<!-- Here's my Portfolio: https://cherrise-exe.github.io/myPortfolio/ -->
 <!---
 Cherrise-exe/Cherrise-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
